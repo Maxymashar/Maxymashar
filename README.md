@@ -5,5 +5,5 @@
 - 🤔 I’m looking for help with **web design**
 - 💬 Ask me about **Javascript**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: I used to used to love **Java**
+- ⚡ Fun fact: I used to used to love **Java** and i still do
 
